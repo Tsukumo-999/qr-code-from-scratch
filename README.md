@@ -1,8 +1,8 @@
 # qr-code-from-scratch
 
-QRコードをゼロからスクラッチしていく記事シリーズ
-QRコードを理解する https://tukumolog.com/qr-reed-solomon-crc/
-の参考プログラムとして作成しました。
+QRコードをゼロからスクラッチしていく記事シリーズ<br>
+QRコードを理解する https://tukumolog.com/qr-reed-solomon-crc/<br>
+の参考プログラムとして作成しました。<br>
 
 *環境*
 python3.12
@@ -14,7 +14,7 @@ python3.12
 
 ### ガロア体の乗法表
 
-精製手順を表記したテーブル作成手順csv
+精製手順を表記したテーブル作成手順を0~255に対して計算した結果を確認できます。
 
 ```
 python3 generate_galois_tabele_step_by_step.py
