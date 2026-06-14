@@ -35,3 +35,6 @@ python3 Step0/generate_galois_tables.py
 ```
 python3 Step0/galois_cals_sim.py
 ```
+
+## Step1 : "HELLO"をエンコードする。
+今回対象とするQRの規格はバージョン２の誤り訂正レベルQであるので、これに合わせてリードソロモン符号を計算し実装します。
