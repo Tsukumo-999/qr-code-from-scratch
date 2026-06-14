@@ -38,3 +38,10 @@ python3 Step0/galois_cals_sim.py
 
 ## Step1 : "HELLO"をエンコードする。
 今回対象とするQRの規格はバージョン２の誤り訂正レベルQであるので、これに合わせてリードソロモン符号を計算し実装します。
+
+VScodeあるいは ipynbが実行可能な環境で、Hello_Encode.ipynbを開き各セルを実行してください。
+
+詳しい内容はこちらの記事で紹介しました。
+
+
+## Step2 : "HELLO"をデコードする。
